@@ -1,0 +1,42 @@
+
+.lgbtn{
+    background-color:deeppink;
+    color: azure;
+    border-color: deeppink;
+    width: 80px;
+    height: 47px;
+    margin-right: 10px;
+    border-radius: 5px;
+} 
+.lb{
+    float: right;
+}
+nav{
+position: sticky;
+top:0
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  } 
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+  
